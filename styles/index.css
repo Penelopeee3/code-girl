@@ -5,5 +5,11 @@ body {
     
 }
 #basic-title{
-    font: size 35px;
+    font-size : 35px;
+}
+
+#aboutus{
+    color: black;
+    font-size: 30px;
+    
 }
